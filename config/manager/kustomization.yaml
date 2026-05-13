@@ -5,5 +5,5 @@ resources:
 - deployment.yaml
 images:
 - name: fluxcd/source-controller
-  newName: fluxcd/source-controller
-  newTag: v1.7.4
+  newName: registry.nordix.org/allies/source-controller
+  newTag: v1.7.4-est-1
