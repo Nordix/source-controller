@@ -6,4 +6,4 @@ resources:
 images:
 - name: fluxcd/source-controller
   newName: registry.nordix.org/allies/source-controller
-  newTag: v1.7.4-est-1
+  newTag: v1.7.4-est-2
